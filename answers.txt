@@ -18,4 +18,9 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: [Your answer here]
 
+Q4: What are you looking forward to this semester?
 
+Answer: I'm looking forward to learning more about data analysis, and how patterns & general
+analysis is used to address problems. I'm interested in the case studies we might get into 
+during the course, and am also intrigued in the socio-political aspect of this course that 
+is mentioned on the class website.
