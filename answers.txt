@@ -14,4 +14,18 @@ Answer: Gives a way to store and share code for projects. It also is a great
 tool for collaboration and is helpful for things like keeping track of your 
 code history and all the changes that have been made. 
 
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to a variety of fields & careers, one examp$
+Trough interpretting data patterns, and implementing other types of data analys$
+do a variety of things in the medical field, like help improve treatment & pati$
+scence can more accurately predict illnesses/diagnoses, and create more accurat$
+the effects of various prescriptions/treatment plans. This is key in advancing $
+improving quality of treatment (reducing the failure rates), and improving the $
+diagnosing patients.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: [Your answer here]
+
 
