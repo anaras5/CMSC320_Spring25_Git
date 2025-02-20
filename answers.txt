@@ -16,7 +16,11 @@ diagnosing patients.
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: [Your answer here]
+Answer: Merging will combine changes made in one branch with another branch. It does this by
+creating a new commit, which means it preserves the commit histories of the merging branches.
+In contrast, rebasing  rebasing moves the changes from one branch to another (usually main)
+branch. Rebasing wll re-write histories, as it creates new commits for each one of the
+commits in the original branch. 
 
 Q4: What are you looking forward to this semester?
 
